@@ -1,0 +1,2 @@
+# Gender-Bias-in-Venture-Capital-Funding
+In this project, we collected 110K Crunchbase USA 2019 records of Venture Capital Funding to startups, focusing on the number of startups that were women-owned and received funding along with the amount. We looked at the percentage of women-owned startups that received an investment greater than 200K and created a Random Forest Classifier model to determine the likelihood that the startup would receive the amount they were looking for depending on their revenue estimate
